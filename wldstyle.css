@@ -1,0 +1,141 @@
+body{
+	background-color: black;
+}
+.img1{
+	width: 100%;
+	height: 800%;
+	background-image: url('wild.jpg');
+	background-size: cover;
+}
+.lay1{
+	width: 100%;
+	height: 100%;
+	
+	color: white;
+	text-align: center;
+	
+	padding-top:150px ;
+}
+.img2{
+	width: 100%;
+	height: 800%;
+
+	background-image: url('elpht.jpg');
+	background-size: cover;
+
+
+}
+.lay2{
+	width: 100%;
+	height: 50%;
+	font-size: 20px;
+	color: white;
+	text-align: left;
+	padding-left: 20px ;
+	padding-top: 30px ;
+
+}
+
+
+
+
+
+.s1{
+	background-image: url('1.jpg');
+	margin-top: 5px;
+	margin-right: -25px;
+	height: 500px;
+	background-size: cover;
+}
+.s2{
+	background-image: url('2.jpg');
+	margin-top: 5px;
+	height:500px ;
+	background-size: cover;
+}
+.sa1{
+	background-image: url('4.jpg');
+	margin-top: 5px;
+	margin-right: -25px;
+	height: 400px;
+	background-size: cover;
+}
+.sa2{
+	background-image: url('3.jpg');
+	margin-top: 5px;
+	margin-right: -25px;
+	height: 400px;
+	
+	
+	background-size: cover;
+}
+
+.sat1{
+	background-image: url('b1.jpg');
+	margin-top: 5px;
+	margin-right: -25px;
+	height: 250px;
+	background-size: cover;
+}
+.sat2{
+	background-image: url('b2.jpg');
+	
+	margin-right: -25px;
+	margin-top: 5px;
+	height: 250px;
+	background-size: cover;
+
+}
+.sat3{
+	background-image: url('b3.jpg');
+		
+	height:250px ;
+	margin-top: 5px;
+	margin-right: -25px;
+	background-size: cover;
+
+}
+.sat4{
+	background-image: url('b4.jpg');
+
+
+	margin-right: -25px;
+	height: 250px;
+	
+	background-size: cover;
+
+
+}
+
+.d1{
+	background: lightblue;
+	margin-top: 5px;
+	margin-right: -25px;
+	height: 60px;
+}
+.d2{
+	background: lightpink;
+	margin-right: -25px;
+	height: 65px;
+}
+.d3{
+	background: yellow;	
+	height:65px ;
+	margin-right: -25px;
+}
+.d4{
+	background: lightgreen;
+	margin-right: -25px;
+	height: 65px;
+}
+.d5{
+	background: lightblue;
+	margin-top: 5px;
+	height: 60px;
+}
+.pt{
+	border-radius: 80px;
+}
+a:hover{
+	background-color: pink;
+}
